@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "login": "Appnice",
+  "kind": "user",
+  "seed": "a1eb54a144fe2c0d",
+  "planted": "2026-10-05",
+  "last_grown": "2026-11-04",
+  "trunk": {
+    "height": 8,
+    "girth": 2,
+    "bends": [
+      [
+        0,
+        0
+      ],
+      [
+        6,
+        1
+      ]
+    ]
+  },
+  "branches": [
+    {
+      "repo_id": "R_kgDOVfBUiw",
+      "name": "git-bonsai",
+      "lang": "Rust",
+      "color": "#dea584",
+      "anchor": 2,
+      "side": "left",
+      "length": 3,
+      "pad": 3,
+      "commits_total": 24,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOVgTAfg",
+      "name": "smif",
+      "lang": "Go",
+      "color": "#00ADD8",
+      "anchor": 5,
+      "side": "right",
+      "length": 4,
+      "pad": 3,
+      "commits_total": 55,
+      "pruned": null
+    }
+  ],
+  "year_cache": {},
+  "history": [
+    {
+      "date": "2026-11-01",
+      "cells_added": 2
+    },
+    {
+      "date": "2026-11-02",
+      "cells_added": 2
+    },
+    {
+      "date": "2026-11-03",
+      "cells_added": 2
+    },
+    {
+      "date": "2026-11-04",
+      "cells_added": 1
+    }
+  ],
+  "vitals": {
+    "phase": "growing",
+    "streak_days": 4,
+    "idle_days": 0,
+    "commits_total": 79,
+    "stars_total": 7,
+    "public_repos": 2,
+    "activity_28d": {
+      "R_kgDOVfBUiw": 24,
+      "R_kgDOVgTAfg": 55
+    },
+    "grew": {
+      "R_kgDOVgTAfg": 1
+    }
+  }
+}
