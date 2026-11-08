@@ -4,7 +4,7 @@
   "kind": "user",
   "seed": "a1eb54a144fe2c0d",
   "planted": "2026-10-05",
-  "last_grown": "2026-11-06",
+  "last_grown": "2026-11-07",
   "trunk": {
     "height": 8,
     "girth": 2,
@@ -39,10 +39,10 @@
       "color": "#00ADD8",
       "anchor": 5,
       "side": "right",
-      "length": 5,
-      "pad": 3,
+      "length": 3,
+      "pad": 0,
       "commits_total": 90,
-      "pruned": null
+      "pruned": "2026-11-07"
     }
   ],
   "year_cache": {},
@@ -70,14 +70,13 @@
   ],
   "vitals": {
     "phase": "growing",
-    "streak_days": 6,
+    "streak_days": 7,
     "idle_days": 0,
-    "commits_total": 116,
-    "stars_total": 13,
-    "public_repos": 3,
+    "commits_total": 27,
+    "stars_total": 11,
+    "public_repos": 2,
     "activity_28d": {
-      "R_kgDOVfBUiw": 24,
-      "R_kgDOVgTAfg": 90
+      "R_kgDOVfBUiw": 24
     },
     "grew": {}
   }
