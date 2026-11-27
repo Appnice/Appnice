@@ -4,7 +4,7 @@
   "kind": "user",
   "seed": "a1eb54a144fe2c0d",
   "planted": "2026-10-05",
-  "last_grown": "2026-11-25",
+  "last_grown": "2026-11-26",
   "trunk": {
     "height": 8,
     "girth": 2,
@@ -30,6 +30,18 @@
       "length": 3,
       "pad": 3,
       "commits_total": 24,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOV9XUEw",
+      "name": "beauty",
+      "lang": "TypeScript",
+      "color": "#3178c6",
+      "anchor": 3,
+      "side": "right",
+      "length": 1,
+      "pad": 3,
+      "commits_total": 11,
       "pruned": null
     },
     {
@@ -66,18 +78,25 @@
     {
       "date": "2026-11-05",
       "cells_added": 1
+    },
+    {
+      "date": "2026-11-26",
+      "cells_added": 1
     }
   ],
   "vitals": {
     "phase": "bloom",
-    "streak_days": 25,
+    "streak_days": 26,
     "idle_days": 0,
-    "commits_total": 45,
+    "commits_total": 57,
     "stars_total": 14,
-    "public_repos": 2,
+    "public_repos": 3,
     "activity_28d": {
+      "R_kgDOV9XUEw": 11,
       "R_kgDOVfBUiw": 24
     },
-    "grew": {}
+    "grew": {
+      "R_kgDOV9XUEw": 1
+    }
   }
 }
